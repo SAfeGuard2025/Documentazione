@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.7">
+  <diagram name="Pagina-1" id="lru0_j1BKA2aeS1UJwwK">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--4" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j9OQ8mTtcPQE1SSCg0u--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Top Manager&amp;nbsp;&lt;div&gt;Filomena Ferrucci&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="90" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--5" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j9OQ8mTtcPQE1SSCg0u--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Top Manager&amp;nbsp;&lt;div&gt;Fabio Palomba&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="430" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--9" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j9OQ8mTtcPQE1SSCg0u--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Project Manager&lt;br&gt;&lt;div&gt;Pasquale Sorrentino&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="260" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--6" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="j9OQ8mTtcPQE1SSCg0u--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-4" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFb6kZuMDO7kV88GeDhV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-5" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFb6kZuMDO7kV88GeDhV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-6" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFb6kZuMDO7kV88GeDhV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="460" />
+              <mxPoint x="585" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="Responsabile Sviluppo&lt;br&gt;&lt;div&gt;Giuseppe Napolitano&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="260" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="j9OQ8mTtcPQE1SSCg0u--8" edge="1" parent="1" source="j9OQ8mTtcPQE1SSCg0u--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="j9OQ8mTtcPQE1SSCg0u--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Fullstack Developer&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Alessandro Masone&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="50" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;Back-end Developer&amp;nbsp;&lt;/div&gt;&lt;div&gt;Alessandro Amendola&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="260" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yFb6kZuMDO7kV88GeDhV-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;UI/UX Junior&lt;/div&gt;&lt;div&gt;Antonello Castelluccio&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="470" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
